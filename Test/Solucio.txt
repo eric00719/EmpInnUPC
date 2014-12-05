@@ -1,6 +1,72 @@
-﻿Solució – your PUBLIC KEY HERE
+﻿Solució – 1040561: Èric Rodriguez Avellan
 
 Respostes
 
-1.- test
+1.- 
+	- Self-discovery: Coneixer-se a un mateix per poder identificar oportunitats a partir de les capacitats pròpies
+	- Planificació: Cercar i identificar els recursos necessàris per convertir l'oportunitat en una realitat. Desenvolupar el pla de negoci.
+	- Passar a l'acció: Obtenir els recursos financers, de personal, etc... per poder desenvolupar la proposta de negoci.
+	- Gestió de l'empresa: Posar en marxa el negoci
+	
+2.-
+	Es refereix a que el producte/servei és nou i no ha estat desenvolupat abans o bé s'ha millorat un ja existent 
+	degut a un canvi en la demanda del mercat o simplement una millora tècnica.
+	
+3.-
+	A part de comprar patents per protegir el nom i/o logo del negoci, la millor opció és realitzar un prototip inicial que representi 
+	de la manera més senzilla possible la idea.
+	El fet de treu-re alguna cosa "tangible" al mercat ja ens farà visibles i ens farà estar per davant de la competència.
+	
+4.-
+	És imprescindible, per dur a terme un negoci, fer un anàlisi de l'entorn i les pressions que genera i poden afectar al negoci 
+	- Pressions *P*olítiques: Polítiques del govern que afecten a l'empresa
+	- Pressions *E*conòmiques: Falta de crèdit, recessió, canvi de moneda, poder adquisitiu
+	- Pressions *S*ocials: Qualitat de vida, estructura social, nivell d'ocupació, cultura
+	- Pressions *T*ecnològiques: Comunicacions, adaptació nova tecnologia
 
+5.-
+	BrainStorming,SCAMPER i Pensament Divergent/Convergent.	
+	BrainStorming: Consisteix en generar una pluja d'idees les quals no s'ha de jutjar, quantes més idees apareixin millor, 
+	sense tenir en compte si seràn viables o no.
+	
+6.-
+	- La manera en que l'organització te la intenció de crear valor de mercat
+	
+	- Blocs del model de negoci canvas (de més important a menys):
+		 1) Customer Segments
+		 2) Value Propositions
+		 3) Chanels
+		 4) Customer Relationships
+	 	 5) Revenue Streams
+		 6) Key Partners
+		 7) Key Activities
+		 8) Key Resources
+		 9) Cost Structure
+	- Tots els blocs són rellevants per dur a terme una idea de negoci.
+	
+	- Al bloc **Proposició de Valor** hi ha el concepte MVP (Minimum Viable Product), que és el mínim que ha de complir el producte per representar la proposició de valor
+	- Al bloc **Segmentació de Clients** hi ha el concepte CUSTOMER PROFILE, que representa els diferents perfils que poden tenir els clients (Edat, sexe, aficions...)
+	- Al relacionar els dos blocs apareix un altre concepte, el PRODUCT MARKET FIT, que descriu la relació que hi ha entre la proposició de valor i el segment de client al que afecta.
+	
+7.-
+	És una part del Market Research que consisteix en fer una investigació de les necessitats i problemes reals dels clients finals.
+	Les eines utilitzades poden ser enquestes, entrevistes o simplement observant el dia a dia dels clients.
+	Te una relació directa amb la proposició de valor i el Product Market Fit, ja que, la nostra proposició de valor és una hipotèsis. 
+	És el client qui realment diu si la proposició de valor satisfà el que realment necessita.
+
+8.- Transaccional --> Relacional	
+	- Producte    --> Client	
+	- Preu 	      --> Cost
+	- Promoció    --> Comunicació/Comunitat
+	- Distribucio --> Comercialització
+
+9.- 
+	- Per conèixer amb qui competirem i la seva manera de fer les coses. És important conèixer "l'enemic" per poder amb ell
+	- Depen del motiu pel qual no hi ha competència. 
+		Si la idea no l'ha pensat ningú abans i estem creant un nou mercat (poc habitual) aleshores és positiva.
+		Si la idea ja l'ha tingut algú abans i no li ha funcionat per qualsevol motiu tenim més probabilitats de que no vagi bé, per tant, és negativa.
+
+10.-
+	No, una aplicació mòbil te un cost inicial fixe, i un cop recuperada la inversió inicial no tenim més costos de producció
+
+ 
